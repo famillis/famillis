@@ -51,7 +51,9 @@ h2{
 }
 
 p{
-    color:white;
+    color:deeppink;
+    font-style: italic;
+    font-size: 10px;
 }
 
 #menubar{
@@ -68,6 +70,8 @@ p{
 #basdepage{
     text-align: center;
     font-size: 10px;
+    color : #00FFB1;
+    font-style: normal;
     
 }
 
