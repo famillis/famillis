@@ -1,15 +1,22 @@
-
 #Space01{
-    height: 220px;
+    height: 20px;
+    width: auto;    
+}
+
+#Space02{
+    height: 200px;
     width: auto;    
 }
 
 a{
     text-decoration: none;
     color: white;
+    border: 1px solid;
+    border-radius: 2px;
+    background-color: none;  
 }
 
-a:over{
+a:hover{
     color:#00FFB1;
 }
 
