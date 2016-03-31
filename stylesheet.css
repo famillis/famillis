@@ -55,9 +55,13 @@ p{
     color: white;
 }
 
-
+#basdepage{
+    text-align: center;
+    font-size: 10px;
+}
 
 html{
+    font-family: verdana;
     background-color: black;
     background-size: auto;
     background-position: center;
