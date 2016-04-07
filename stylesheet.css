@@ -81,3 +81,13 @@ html{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.biggreen{
+    color : #00FFB1;
+    font-size:50px;
+    
+}
+
+.photo{
+    width: 300px;
+}
